@@ -17,3 +17,4 @@ Python based Resume Parser built on spaCy and NLTK. Given a resume in pdf format
   
   7)Interests and Hobbies
 
+For extracting some of the fields, we use a hardcoded list, they are provided seperately as text files.
