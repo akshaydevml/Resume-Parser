@@ -8,3 +8,4 @@ Python based Reume Parser built on spaCy and NLTK. Can be used to extract-
 5)Companies Worked At
 6)Languages Spoken
 7)Interests and Hobbies
+
