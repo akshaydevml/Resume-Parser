@@ -1,6 +1,6 @@
 # Resume-Parser
 
-Python based Resume Parser built on spaCy and NLTK. Given a resume in pdf format can be used to extract-
+Python based Resume Parser built on spaCy and NLTK. Given a resume in pdf format it can be used to extract-
 
 
   1)Name  
